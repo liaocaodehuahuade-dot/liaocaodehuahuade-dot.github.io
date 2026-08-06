@@ -1,0 +1,20 @@
+{
+  "name": "潦草的画画 · 我的成长工作台",
+  "short_name": "潦草的画画",
+  "description": "英语、课程、运动、阅读、记事与 AI 资讯的一站式成长记录工作台。",
+  "lang": "zh-CN",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff8f5",
+  "theme_color": "#f4b5d6",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
